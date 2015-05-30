@@ -3,7 +3,7 @@ Contributors: WeedBiz, Spreaker
 Tags: spreaker, marijuana, audio, embed, widget, player, podcast, music, sound, cannabis, medical marijuana, hemp
 Requires at least: 2.5.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 A simple and easy way to embed 24/7 medical marijuana and hemp radio from the Time4Hemp Global Broadcasting Network into your WordPress blog.
@@ -38,6 +38,9 @@ If you need further help, please contact us at <a href="http://www.weedbiz.us">W
 
 
 == Changelog ==
+
+= 1.1 =
+* Replaced 'episode_id' with 'show_id' to prevent "Station Offline" errors
 
 = 1.0 =
 * First Release

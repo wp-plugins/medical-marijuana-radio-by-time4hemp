@@ -4,7 +4,7 @@ Plugin Name: Medical Marijuana Radio by Time4Hemp
 Plugin URI: https://wordpress.org/plugins/medical-marijuana-radio-by-time4hemp
 Description: An easy way to embed 24/7 medical marijuana and hemp radio from the Time4Hemp Global Broadcasting Network into your WordPress website. A simple example: "[medical-marijuana-radio]". More options in the plugin page.
 Author: Medical Marijuana Radio by Time4Hemp
-Version: 1.0
+Version: 1.1
 Author URI: http://www.weedbiz.us
 */
 
