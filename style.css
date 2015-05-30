@@ -1,0 +1,19 @@
+.mmj-radio {
+	width: 100%;
+	color: #999;
+}
+.mmj-radio img {
+	display: block;
+	margin: 0 auto;
+	padding: 0 !important;
+	width:100%;
+}
+.mmj-radio h3 {
+	text-align: center;
+	padding: 10px 15px;
+	background: #25282A;
+	font-family: 'Droid Sans', sans-serif;
+	color: #fff;
+	font-size: 16px;
+	margin: 0;
+}
