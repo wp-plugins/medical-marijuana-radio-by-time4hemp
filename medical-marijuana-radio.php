@@ -23,7 +23,7 @@ function medical_marijuana_radio( $atts ) {
         'coupon_sid'=>null
     ), $atts ) );
 
-    $content = 'show_id=6132798';
+    $content = 'show_id=943964';
     
     //CHECK TYPE
     if ($type!='mini' && $type!='standard') {
