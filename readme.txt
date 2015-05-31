@@ -36,6 +36,10 @@ The Medical Marijuana Radio administrative menu link gives an option for the adm
 If you need further help, please contact us at <a href="http://www.weedbiz.us">WeedBiz.us</a>.
 
 
+== Screenshots ==
+
+1. Admin view
+2. Front end view
 
 == Changelog ==
 
