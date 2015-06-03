@@ -35,6 +35,11 @@ The Medical Marijuana Radio administrative menu link gives an option for the adm
 
 If you need further help, please contact us at [WeedBiz.us](http://www.weedbiz.us).
 
+== Installation ==
+
+Upload plugin to the /wp-content/plugins/ directory
+Activate the plugin through the 'Plugins' menu in WordPress
+Add the shortcode [medical-marijuana-radio] to a text widget in your Wordpress sidebar.
 
 == Screenshots ==
 
