@@ -6,12 +6,12 @@ Tested up to: 4.2.2
 Stable tag: 1.1
 
 
-A simple and easy way to embed 24/7 medical marijuana and hemp radio from the Time4Hemp Global Broadcasting Network into your WordPress blog.
+A quick and easy way to embed 24/7 medical marijuana and hemp radio from the Time4Hemp Global Broadcasting Network into your WordPress blog.
 
 
 == Description ==
 
-The Medical Marijuana Radio by Time4Hemp plugin is an easy way to embed a Spreaker audio player that plays medical marijuana and hemp-related programming from the Time4Hemp Global Broadcasting Network in your Wordress sidebar. This plugin is a modified version of the <a href-"https://wordpress.org/plugins/spreaker-shortcode/">Spreaker Shortcode plugin</a>, and modifies the original plugin to add styling and station settings specific to this station.
+The Medical Marijuana Radio by Time4Hemp plugin is an easy way to embed a Spreaker audio player that plays medical marijuana and hemp-related programming from the [Time4Hemp Global Broadcasting Network](https://time4hemp.com) in your Wordress sidebar. This plugin is a modified version of the <a href-"https://wordpress.org/plugins/spreaker-shortcode/">Spreaker Shortcode plugin</a>, and modifies the original plugin to add styling and station settings specific to this station.
 
 Example Usage:
 
@@ -33,7 +33,7 @@ The Medical Marijuana Radio administrative menu link gives an option for the adm
 
 **Help**
 
-If you need further help, please contact us at <a href="http://www.weedbiz.us">WeedBiz.us</a>.
+If you need further help, please contact us at [WeedBiz.us](http://www.weedbiz.us).
 
 
 == Screenshots ==
