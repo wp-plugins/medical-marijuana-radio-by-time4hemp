@@ -11,7 +11,7 @@ A quick and easy way to embed 24/7 medical marijuana and hemp radio from the Tim
 
 == Description ==
 
-The Medical Marijuana Radio by Time4Hemp plugin is an easy way to embed a Spreaker audio player that plays medical marijuana and hemp-related programming from the [Time4Hemp Global Broadcasting Network](https://time4hemp.com) in your Wordress sidebar. This plugin is a modified version of the <a href-"https://wordpress.org/plugins/spreaker-shortcode/">Spreaker Shortcode plugin</a>, and modifies the original plugin to add styling and station settings specific to this station.
+The Medical Marijuana Radio by Time4Hemp plugin is an easy way to embed a Spreaker audio player that plays medical marijuana and hemp-related programming from the [Time4Hemp Global Broadcasting Network](https://time4hemp.com) in your Wordress sidebar. This plugin is a modified version of the [Spreaker Shortcode plugin](https://wordpress.org/plugins/spreaker-shortcode/), and modifies the original plugin to add styling and station settings specific to this station.
 
 Example Usage:
 
