@@ -2,7 +2,7 @@
 Contributors: WeedBiz, Spreaker
 Tags: spreaker, marijuana, audio, embed, widget, player, podcast, music, sound, cannabis, medical marijuana, hemp
 Requires at least: 2.5.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.1
 
 
